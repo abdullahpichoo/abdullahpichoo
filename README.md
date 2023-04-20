@@ -1,4 +1,8 @@
-![MasterHead](https://steemitimages.com/DQmTZQxQZyVcNRX44ZJLdWDbcsdJjgEjPJdGyVWfSF4ma4t/fade_out_by_valenberg-d8aagwj.gif)
+
+
+<p align= "center">
+<img src="https://steemitimages.com/DQmTZQxQZyVcNRX44ZJLdWDbcsdJjgEjPJdGyVWfSF4ma4t/fade_out_by_valenberg-d8aagwj.gif" alt="postgresql" width="700" /> 
+</p>
 <h1 align="center">Hi 👋, I'm Abdullah Ijaz</h1>
 <h3 align="center">"Passionate Full Stack Developer and Product Designer Seeking Opportunities to Learn and Contribute"</h3>
 
