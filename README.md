@@ -18,23 +18,33 @@
 - I write about engineering and building on [LinkedIn](https://www.linkedin.com/in/abdullah-ijaz-dev/)
 - 📬 Reach me at **abdullah.workdev@gmail.com**
 
-Tech I Reach For
 
-Languages
+## What I'm Building at HeyOz
+ 
+- **AI ad creation agent**: multi-agent system with LLM tool calling, KV-cache-optimized context engineering, and a persistent brand memory engine.
+- **Competitive intelligence pipeline**: Meta Ad Library ingestion, media caching, composite winning-ad scoring, and vector similarity search wired directly into the agent
+- **Video templatization engine** that lets us ship a new video ad format with the latest video models by writing one file, with content-hash caching for free per-clip regeneration
+- **Web-based video editor** (React/Next.js + Konva + FFmpeg) plus 4+ AI video formats driving most trial-to-paid conversions
+- and so much more, can't really write everything here lol
+  
+## Tech I Reach For
+ 
+**Languages**
+ 
 <img src="https://skillicons.dev/icons?i=ts,js,py,go,ruby" alt="TypeScript, JavaScript, Python, Go, Ruby" />
 
-Frameworks & Libraries
+**Frameworks & Libraries**
+ 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,rails,tailwind" alt="Node.js, Next.js, React, Ruby on Rails, Tailwind" />
 
-Databases
+**Databases**
+ 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="MongoDB, PostgreSQL, MySQL, Redis" />
 
-Cloud & Tools
+**Cloud & Tools**
+ 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="AWS, Docker, Git, GitHub" />
 
 ## GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahpichoo&show_icons=true&locale=en&layout=compact" alt="abdullahpichoo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahpichoo&show_icons=true&locale=en" alt="abdullahpichoo" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahpichoo&" alt="abdullahpichoo" /></p>
